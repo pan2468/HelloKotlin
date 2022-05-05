@@ -8,6 +8,9 @@
       <excludeFolder url="file://$MODULE_DIR$/src/chap03/section1" />
       <excludeFolder url="file://$MODULE_DIR$/src/chap03/section3/funcargs" />
       <excludeFolder url="file://$MODULE_DIR$/src/chap04/section1" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chap05/section1/define" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chap05/section1" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chap05/section2/secondary" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
