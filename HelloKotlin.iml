@@ -12,6 +12,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/chap05/section1" />
       <excludeFolder url="file://$MODULE_DIR$/src/chap05/section2/secondary" />
       <excludeFolder url="file://$MODULE_DIR$/src/chap05/section3/openclass" />
+      <excludeFolder url="file://$MODULE_DIR$/src/chap05/section4/personthis" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
