@@ -20,3 +20,10 @@ fun add(name: String, email: String = "default"){
 fun defaultArgs(x: Int = 100, y: Int = 200){
     println(x + y)
 }
+
+//fun sum(a: Int, b:Int): Int{
+//    return a + b;
+//}
+
+
+
