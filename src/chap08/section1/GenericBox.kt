@@ -10,3 +10,4 @@ fun main() {
     println(box1.name)
     println(box2.name)
 }
+
